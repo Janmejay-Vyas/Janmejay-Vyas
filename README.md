@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Passionate Data Scientist and Machine Learning enthusiast 🤖 with expertise in Python, R, and advanced ML frameworks like tensorflow and pytorch. I'm experienced in developing large language models, graph neural networks, and bioinformatics tools to drive innovations in data analysis and biological research.
 <!--
 **Janmejay-Vyas/Janmejay-Vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
